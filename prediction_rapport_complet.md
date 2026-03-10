@@ -3,7 +3,7 @@
 ## Avec exemples sur données réelles (scikit-learn)
 
 > **Fichiers scripts :** `prediction_examples.py` · `prediction_examples_2.py` · `prediction_examples_3.py`  
-> **Date :** Mars 2026 | **Auteur :** Habilitation 2026
+> **Date :** Mars 2026 | **Auteur :** A. LArhlimi
 
 ---
 
@@ -915,4 +915,5 @@ python prediction_examples_3.py
 
 ---
 
-*Mars 2026 — Rapport d'Habilitation*
+*Mars 2026 — A. LArhlimi*
+
